@@ -1,0 +1,28 @@
+1) Summary by Continent and Country (4)
+
+Callsign  Time   Band  Country
+------------------------------
+TF2MSN    14:23        EU Iceland
+CO2WL     14:25        NA Cuba
+NS0SR     14:24        NA United States
+LU1BDR    13:54        SA Argentina
+
+
+2) All entries (14)
+
+Callsign  Time   Band  Country
+------------------------------
+CO2WL     14:25        NA Cuba
+NS0SR     14:24        NA United States
+TF2MSN    14:23        EU Iceland
+NS0SR     14:22        NA United States
+NS0SR     14:21        NA United States
+NS0SR     14:21        NA United States
+CO2RVA    14:15        NA Cuba
+CO2RVA    14:11        NA Cuba
+N9SB      13:58        NA United States
+K5DBF     13:57        NA United States
+CO2AME    13:57        NA Cuba
+CO2AME    13:56        NA Cuba
+LU1BDR    13:54        SA Argentina
+LU1BDR    13:45        SA Argentina

@@ -1,0 +1,106 @@
+1) Summary by Continent and Country (7)
+
+Callsign    Time   Band  Country
+--------------------------------
+NP3CW       18:29        NA Puerto Rico
+NS0SR       18:46        NA United States
+LU2ICA      18:06        SA Argentina
+PT9AL       18:00        SA Brazil
+CE2VQF      18:44        SA Chile
+HK3MOA      18:25        SA Colombia
+PJ2/DM3HZN  18:09        SA Curacao Is.
+
+
+2) All entries (89)
+
+Callsign    Time   Band  Country
+--------------------------------
+NS0SR       18:46        NA United States
+W0IZ        18:46        NA United States
+N5SLY       18:46        NA United States
+N5SLY       18:45        NA United States
+N0HIU       18:45        NA United States
+CE2VQF      18:44        SA Chile
+N5SLY       18:44        NA United States
+W0IZ        18:43        NA United States
+N5SLY       18:42        NA United States
+NS0SR       18:42        NA United States
+N5SLY       18:41        NA United States
+K9ZFQ       18:40        NA United States
+CE2VQF      18:40        SA Chile
+CE2VQF      18:39        SA Chile
+WB2YKY      18:36        NA United States
+K9ZFQ       18:35        NA United States
+W0IZ        18:35        NA United States
+CE2VQF      18:35        SA Chile
+NS0SR       18:35        NA United States
+AD0QI       18:32        NA United States
+NP3CW       18:29        NA Puerto Rico
+NP3CW       18:29        NA Puerto Rico
+N4BUA       18:29        NA United States
+N4BUA       18:27        NA United States
+N4BUA       18:26        NA United States
+KC0VCC      18:26        NA United States
+KC0VCC      18:25        NA United States
+HK3MOA      18:25        SA Colombia
+N7WE        18:24        NA United States
+KC0VCC      18:24        NA United States
+K4SBZ       18:23        NA United States
+K4SBZ       18:22        NA United States
+HK3MOA      18:21        SA Colombia
+K4SBZ       18:21        NA United States
+NS0SR       18:21        NA United States
+N0HIU       18:20        NA United States
+K4SBZ       18:20        NA United States
+N4BUA       18:20        NA United States
+HK3MOA      18:20        SA Colombia
+K4SBZ       18:18        NA United States
+N4BUA       18:17        NA United States
+KF7SDL      18:17        NA United States
+AD0QI       18:14        NA United States
+KW7U        18:14        NA United States
+N7KPM       18:14        NA United States
+N3GLV       18:10        NA United States
+KC9KEM      18:09        NA United States
+PJ2/DM3HZN  18:09        SA Curacao Is.
+KC4TIE      18:08        NA United States
+KB1VXY      18:08        NA United States
+KF9KV       18:07        NA United States
+KC9KEM      18:07        NA United States
+LU2ICA      18:06        SA Argentina
+KF9KV       18:06        NA United States
+KF9KV       18:06        NA United States
+KB1VXY      18:06        NA United States
+KF9KV       18:05        NA United States
+LU8FAB      18:04        SA Argentina
+PJ2/DM3HZN  18:04        SA Curacao Is.
+KF9KV       18:04        NA United States
+KG7BAN      18:03        NA United States
+KF9KV       18:03        NA United States
+PJ2/DM3HZN  18:01        SA Curacao Is.
+KG5GTE      18:01        NA United States
+W7DRW       18:00        NA United States
+PT9AL       18:00        SA Brazil
+W4BDA       17:59        NA United States
+W4BDA       17:58        NA United States
+K5WRE       17:58        NA United States
+AD0QI       17:57        NA United States
+K5WRE       17:56        NA United States
+W7JIF       17:56        NA United States
+N3GLV       17:56        NA United States
+LU2ICA      17:56        SA Argentina
+LU2ICA      17:55        SA Argentina
+K8LS        17:54        NA United States
+KC9JBU      17:54        NA United States
+KC9JBU      17:54        NA United States
+LU2ICA      17:54        SA Argentina
+LU2ICA      17:53        SA Argentina
+N3GLV       17:53        NA United States
+KC9KEM      17:52        NA United States
+K5LGP       17:51        NA United States
+KC9KEM      17:50        NA United States
+K5LGP       17:50        NA United States
+K9NRW       17:49        NA United States
+K5LGP       17:49        NA United States
+PY2RTM      17:48        SA Brazil
+K9NXS       17:47        NA United States

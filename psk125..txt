@@ -1,0 +1,20 @@
+1) Summary by Continent and Country (2)
+
+Callsign  Time   Band  Country
+------------------------------
+AD0QI     16:49        NA United States
+VP8LP     16:54        SA Falkland Is.
+
+
+2) All entries (8)
+
+Callsign  Time   Band  Country
+------------------------------
+VP8LP     16:54        SA Falkland Is.
+VP8LP     16:51        SA Falkland Is.
+VP8LP     16:50        SA Falkland Is.
+AD0QI     16:49        NA United States
+AD0QI     16:48        NA United States
+AA5AT     15:58        NA United States
+AA5AT     15:56        NA United States
+AA5AT     15:56        NA United States
